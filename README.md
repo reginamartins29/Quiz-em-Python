@@ -1,2 +1,2 @@
-# Quiz em Python
-Quiz em python com alternativa.
+# Quiz-python
+Quiz interativo em Python com perguntas e alternativas.
